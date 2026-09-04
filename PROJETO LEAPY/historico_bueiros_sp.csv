@@ -1,0 +1,1001 @@
+id_bueiro,regiao,obstrucao_sensor_percentual,previsao_chuva_24h_mm,historico_alagamento_regiao,risco_enchente_alvo
+BUE-0001,Zona Oeste,75,77,10,1
+BUE-0002,Centro,99,11,10,1
+BUE-0003,Zona Norte,67,105,8,1
+BUE-0004,Centro,4,19,5,0
+BUE-0005,Centro,36,52,0,0
+BUE-0006,Zona Leste,71,113,0,1
+BUE-0007,Zona Norte,91,87,5,1
+BUE-0008,Zona Norte,30,42,3,0
+BUE-0009,Zona Norte,8,97,3,0
+BUE-0010,Centro,50,88,10,1
+BUE-0011,Zona Oeste,28,49,5,0
+BUE-0012,Zona Norte,77,28,10,0
+BUE-0013,Centro,39,56,6,0
+BUE-0014,Zona Leste,40,38,8,0
+BUE-0015,Zona Oeste,85,94,9,1
+BUE-0016,Zona Leste,10,55,4,0
+BUE-0017,Zona Oeste,22,110,8,0
+BUE-0018,Centro,0,42,3,0
+BUE-0019,Zona Sul,45,49,9,0
+BUE-0020,Zona Oeste,100,22,1,0
+BUE-0021,Zona Leste,20,43,2,0
+BUE-0022,Centro,89,37,10,0
+BUE-0023,Zona Oeste,35,83,0,0
+BUE-0024,Zona Sul,53,22,5,0
+BUE-0025,Zona Sul,86,44,5,0
+BUE-0026,Zona Norte,56,51,0,0
+BUE-0027,Zona Norte,0,79,10,0
+BUE-0028,Zona Leste,62,49,2,0
+BUE-0029,Zona Oeste,53,105,4,1
+BUE-0030,Zona Oeste,54,118,2,0
+BUE-0031,Zona Norte,39,7,9,0
+BUE-0032,Zona Oeste,14,113,2,1
+BUE-0033,Zona Oeste,20,84,9,1
+BUE-0034,Zona Sul,46,0,2,0
+BUE-0035,Zona Norte,72,118,4,1
+BUE-0036,Centro,52,7,4,0
+BUE-0037,Zona Norte,8,28,3,0
+BUE-0038,Centro,73,95,0,1
+BUE-0039,Zona Sul,51,101,4,0
+BUE-0040,Zona Leste,56,4,9,0
+BUE-0041,Zona Oeste,25,110,4,0
+BUE-0042,Zona Sul,40,85,3,0
+BUE-0043,Zona Oeste,34,46,5,0
+BUE-0044,Zona Leste,62,33,9,0
+BUE-0045,Zona Leste,24,64,3,0
+BUE-0046,Zona Sul,89,54,6,1
+BUE-0047,Zona Leste,74,118,6,1
+BUE-0048,Centro,37,89,1,0
+BUE-0049,Zona Leste,1,42,2,0
+BUE-0050,Zona Oeste,6,73,0,0
+BUE-0051,Zona Oeste,81,29,7,1
+BUE-0052,Zona Oeste,90,113,8,1
+BUE-0053,Zona Oeste,33,81,3,0
+BUE-0054,Centro,90,16,5,1
+BUE-0055,Zona Norte,16,25,8,0
+BUE-0056,Zona Sul,42,7,5,0
+BUE-0057,Zona Oeste,58,46,8,1
+BUE-0058,Zona Leste,50,103,3,1
+BUE-0059,Zona Oeste,53,112,7,1
+BUE-0060,Zona Leste,23,75,8,0
+BUE-0061,Zona Leste,24,90,3,0
+BUE-0062,Zona Oeste,70,71,4,1
+BUE-0063,Centro,51,88,7,1
+BUE-0064,Zona Leste,69,45,9,1
+BUE-0065,Zona Leste,87,67,5,1
+BUE-0066,Zona Oeste,32,32,6,0
+BUE-0067,Zona Leste,48,0,2,0
+BUE-0068,Zona Leste,28,18,6,0
+BUE-0069,Zona Oeste,62,30,7,0
+BUE-0070,Zona Oeste,21,79,9,0
+BUE-0071,Zona Sul,25,13,5,0
+BUE-0072,Centro,27,52,9,0
+BUE-0073,Centro,84,47,8,0
+BUE-0074,Zona Leste,48,68,5,0
+BUE-0075,Centro,70,104,8,1
+BUE-0076,Zona Leste,80,89,3,1
+BUE-0077,Zona Sul,83,61,7,1
+BUE-0078,Zona Oeste,48,91,10,1
+BUE-0079,Zona Oeste,19,65,3,0
+BUE-0080,Zona Oeste,85,113,1,1
+BUE-0081,Centro,91,63,9,1
+BUE-0082,Zona Sul,62,69,10,1
+BUE-0083,Centro,60,62,8,0
+BUE-0084,Centro,48,72,4,0
+BUE-0085,Zona Sul,70,32,3,1
+BUE-0086,Zona Sul,0,40,1,0
+BUE-0087,Zona Sul,95,88,0,1
+BUE-0088,Zona Sul,12,47,10,0
+BUE-0089,Zona Oeste,93,12,6,0
+BUE-0090,Zona Norte,86,72,5,1
+BUE-0091,Zona Norte,50,116,1,0
+BUE-0092,Zona Sul,55,76,7,1
+BUE-0093,Zona Norte,82,30,10,0
+BUE-0094,Zona Norte,61,104,3,1
+BUE-0095,Zona Sul,31,74,7,0
+BUE-0096,Zona Norte,29,67,6,1
+BUE-0097,Centro,28,97,4,0
+BUE-0098,Zona Leste,48,101,9,1
+BUE-0099,Zona Leste,44,109,9,0
+BUE-0100,Zona Sul,92,3,7,0
+BUE-0101,Zona Oeste,29,101,8,1
+BUE-0102,Zona Sul,15,18,4,0
+BUE-0103,Zona Oeste,39,69,9,0
+BUE-0104,Zona Leste,18,97,4,0
+BUE-0105,Zona Sul,17,81,1,0
+BUE-0106,Centro,0,12,4,0
+BUE-0107,Zona Norte,77,104,2,1
+BUE-0108,Zona Oeste,46,22,6,0
+BUE-0109,Zona Norte,65,82,9,1
+BUE-0110,Zona Norte,91,108,4,1
+BUE-0111,Zona Sul,93,74,7,1
+BUE-0112,Zona Norte,37,0,0,0
+BUE-0113,Centro,50,87,2,0
+BUE-0114,Zona Norte,62,53,2,0
+BUE-0115,Zona Sul,3,70,8,0
+BUE-0116,Centro,0,88,4,0
+BUE-0117,Zona Leste,7,84,8,1
+BUE-0118,Zona Norte,28,14,8,0
+BUE-0119,Zona Sul,54,64,0,0
+BUE-0120,Zona Leste,2,75,1,0
+BUE-0121,Zona Leste,31,70,4,0
+BUE-0122,Zona Oeste,9,14,3,0
+BUE-0123,Centro,73,20,9,0
+BUE-0124,Zona Norte,82,18,8,0
+BUE-0125,Zona Sul,33,59,6,0
+BUE-0126,Zona Oeste,96,92,5,1
+BUE-0127,Centro,86,88,6,1
+BUE-0128,Zona Oeste,54,32,0,0
+BUE-0129,Centro,91,48,0,0
+BUE-0130,Centro,31,95,7,0
+BUE-0131,Zona Norte,49,112,1,1
+BUE-0132,Centro,6,34,9,0
+BUE-0133,Zona Oeste,92,43,10,1
+BUE-0134,Centro,7,101,8,1
+BUE-0135,Zona Norte,64,89,6,0
+BUE-0136,Zona Norte,56,10,5,0
+BUE-0137,Zona Oeste,66,98,0,0
+BUE-0138,Zona Leste,87,71,0,1
+BUE-0139,Zona Leste,86,109,1,0
+BUE-0140,Centro,58,77,5,0
+BUE-0141,Zona Sul,71,73,5,1
+BUE-0142,Centro,53,65,1,0
+BUE-0143,Zona Oeste,100,45,0,1
+BUE-0144,Zona Oeste,66,8,9,0
+BUE-0145,Zona Oeste,50,2,4,0
+BUE-0146,Zona Oeste,96,84,4,1
+BUE-0147,Zona Oeste,91,25,1,0
+BUE-0148,Zona Norte,7,71,5,0
+BUE-0149,Zona Leste,33,47,8,0
+BUE-0150,Zona Oeste,34,65,1,0
+BUE-0151,Zona Sul,95,69,9,1
+BUE-0152,Zona Sul,87,27,1,0
+BUE-0153,Zona Sul,77,116,2,0
+BUE-0154,Zona Sul,31,92,6,0
+BUE-0155,Zona Norte,45,25,5,0
+BUE-0156,Zona Sul,15,24,7,0
+BUE-0157,Zona Oeste,67,11,7,0
+BUE-0158,Centro,36,4,5,0
+BUE-0159,Zona Sul,53,97,10,1
+BUE-0160,Zona Norte,84,47,9,1
+BUE-0161,Zona Norte,13,36,2,0
+BUE-0162,Zona Sul,94,78,2,1
+BUE-0163,Centro,54,43,0,0
+BUE-0164,Zona Sul,47,99,6,1
+BUE-0165,Zona Norte,81,14,4,0
+BUE-0166,Zona Leste,6,42,3,0
+BUE-0167,Zona Oeste,73,47,9,1
+BUE-0168,Zona Norte,6,86,3,0
+BUE-0169,Zona Sul,32,69,3,0
+BUE-0170,Zona Oeste,22,45,5,0
+BUE-0171,Zona Sul,84,113,7,1
+BUE-0172,Zona Sul,18,107,7,0
+BUE-0173,Zona Leste,18,42,4,0
+BUE-0174,Zona Oeste,35,108,5,1
+BUE-0175,Zona Oeste,28,20,3,0
+BUE-0176,Zona Leste,59,22,10,0
+BUE-0177,Zona Norte,81,106,8,1
+BUE-0178,Zona Sul,1,118,7,1
+BUE-0179,Centro,0,79,9,0
+BUE-0180,Zona Sul,46,46,9,0
+BUE-0181,Zona Sul,68,116,0,1
+BUE-0182,Zona Norte,19,14,1,0
+BUE-0183,Zona Sul,10,24,8,0
+BUE-0184,Zona Leste,1,35,7,0
+BUE-0185,Zona Leste,66,74,2,1
+BUE-0186,Zona Oeste,86,50,7,1
+BUE-0187,Centro,11,14,0,0
+BUE-0188,Zona Sul,19,67,9,0
+BUE-0189,Zona Sul,4,20,3,0
+BUE-0190,Zona Norte,36,12,2,0
+BUE-0191,Zona Leste,37,85,5,1
+BUE-0192,Centro,93,18,6,0
+BUE-0193,Zona Oeste,8,33,3,0
+BUE-0194,Zona Leste,97,77,6,1
+BUE-0195,Zona Oeste,52,67,8,0
+BUE-0196,Zona Norte,43,111,10,1
+BUE-0197,Zona Norte,98,116,1,1
+BUE-0198,Zona Sul,85,51,10,1
+BUE-0199,Centro,23,109,2,0
+BUE-0200,Zona Oeste,80,26,4,0
+BUE-0201,Zona Leste,73,28,2,0
+BUE-0202,Zona Norte,29,110,10,1
+BUE-0203,Zona Sul,58,27,7,0
+BUE-0204,Zona Sul,86,34,9,0
+BUE-0205,Zona Oeste,95,7,7,0
+BUE-0206,Zona Norte,80,15,7,0
+BUE-0207,Centro,80,105,8,1
+BUE-0208,Zona Norte,13,35,3,0
+BUE-0209,Zona Oeste,8,29,4,0
+BUE-0210,Zona Oeste,39,17,4,0
+BUE-0211,Zona Norte,65,1,7,0
+BUE-0212,Zona Oeste,24,48,6,0
+BUE-0213,Zona Norte,72,76,8,0
+BUE-0214,Zona Leste,21,3,7,0
+BUE-0215,Zona Norte,3,89,1,0
+BUE-0216,Zona Norte,25,88,9,1
+BUE-0217,Zona Oeste,57,93,3,1
+BUE-0218,Zona Oeste,28,74,5,0
+BUE-0219,Zona Sul,97,6,1,0
+BUE-0220,Zona Sul,86,94,6,1
+BUE-0221,Zona Leste,36,107,2,0
+BUE-0222,Zona Sul,74,73,2,0
+BUE-0223,Zona Norte,69,38,10,0
+BUE-0224,Zona Oeste,17,12,1,0
+BUE-0225,Zona Sul,84,30,10,0
+BUE-0226,Zona Sul,41,70,7,0
+BUE-0227,Zona Leste,99,62,5,1
+BUE-0228,Zona Leste,40,55,0,0
+BUE-0229,Zona Norte,37,112,0,1
+BUE-0230,Zona Oeste,33,41,6,0
+BUE-0231,Zona Leste,16,60,7,0
+BUE-0232,Zona Sul,36,41,4,0
+BUE-0233,Zona Oeste,24,55,10,0
+BUE-0234,Zona Oeste,75,35,4,0
+BUE-0235,Zona Sul,86,83,3,0
+BUE-0236,Zona Leste,85,67,5,1
+BUE-0237,Zona Sul,84,117,5,1
+BUE-0238,Zona Oeste,26,6,2,0
+BUE-0239,Centro,56,53,8,0
+BUE-0240,Centro,30,0,10,0
+BUE-0241,Zona Norte,5,43,6,0
+BUE-0242,Zona Sul,90,119,0,1
+BUE-0243,Zona Sul,39,44,6,0
+BUE-0244,Zona Norte,97,105,4,1
+BUE-0245,Zona Norte,11,46,4,0
+BUE-0246,Zona Norte,52,12,1,0
+BUE-0247,Zona Oeste,70,118,3,1
+BUE-0248,Zona Sul,9,21,5,0
+BUE-0249,Zona Oeste,44,117,9,1
+BUE-0250,Zona Norte,16,20,10,0
+BUE-0251,Zona Sul,25,85,6,0
+BUE-0252,Zona Oeste,84,91,10,1
+BUE-0253,Zona Oeste,91,8,4,0
+BUE-0254,Zona Norte,61,25,8,0
+BUE-0255,Zona Sul,45,8,2,0
+BUE-0256,Zona Norte,63,14,0,0
+BUE-0257,Zona Sul,1,9,3,0
+BUE-0258,Centro,53,87,8,1
+BUE-0259,Zona Leste,64,41,3,0
+BUE-0260,Zona Leste,50,71,1,0
+BUE-0261,Zona Leste,52,23,9,0
+BUE-0262,Zona Norte,35,79,4,0
+BUE-0263,Centro,25,48,2,0
+BUE-0264,Zona Sul,28,25,8,0
+BUE-0265,Zona Oeste,20,90,3,0
+BUE-0266,Zona Sul,10,36,5,0
+BUE-0267,Zona Oeste,39,67,1,0
+BUE-0268,Zona Sul,10,49,5,0
+BUE-0269,Centro,35,23,2,0
+BUE-0270,Zona Oeste,58,18,8,0
+BUE-0271,Zona Norte,38,99,10,1
+BUE-0272,Zona Sul,98,59,1,0
+BUE-0273,Zona Sul,53,38,8,0
+BUE-0274,Zona Oeste,97,73,4,0
+BUE-0275,Zona Norte,54,88,7,1
+BUE-0276,Zona Norte,23,17,1,0
+BUE-0277,Centro,21,18,5,0
+BUE-0278,Zona Norte,68,35,2,0
+BUE-0279,Zona Norte,55,73,9,1
+BUE-0280,Zona Norte,32,96,4,0
+BUE-0281,Zona Leste,35,54,7,0
+BUE-0282,Centro,19,113,9,1
+BUE-0283,Zona Sul,82,68,0,0
+BUE-0284,Zona Oeste,98,46,4,0
+BUE-0285,Zona Sul,80,48,2,0
+BUE-0286,Centro,61,98,3,1
+BUE-0287,Zona Oeste,97,107,1,1
+BUE-0288,Centro,72,97,8,1
+BUE-0289,Zona Norte,25,32,2,0
+BUE-0290,Zona Oeste,65,118,1,1
+BUE-0291,Zona Norte,72,20,9,0
+BUE-0292,Zona Sul,72,80,10,1
+BUE-0293,Zona Sul,39,21,8,0
+BUE-0294,Zona Oeste,16,47,6,0
+BUE-0295,Zona Oeste,0,36,5,0
+BUE-0296,Centro,88,14,0,0
+BUE-0297,Centro,60,34,4,0
+BUE-0298,Zona Norte,42,91,10,1
+BUE-0299,Zona Oeste,41,70,10,1
+BUE-0300,Zona Sul,24,31,2,0
+BUE-0301,Centro,38,10,0,0
+BUE-0302,Centro,34,9,3,0
+BUE-0303,Zona Sul,2,72,1,0
+BUE-0304,Centro,100,77,1,1
+BUE-0305,Zona Norte,43,76,2,0
+BUE-0306,Zona Oeste,50,56,7,0
+BUE-0307,Zona Sul,93,24,7,1
+BUE-0308,Zona Oeste,97,1,6,0
+BUE-0309,Centro,11,63,5,0
+BUE-0310,Centro,18,34,8,0
+BUE-0311,Zona Sul,100,6,3,1
+BUE-0312,Zona Norte,43,84,0,0
+BUE-0313,Zona Leste,58,17,7,0
+BUE-0314,Zona Sul,48,66,6,1
+BUE-0315,Zona Leste,60,41,6,1
+BUE-0316,Zona Leste,16,117,2,0
+BUE-0317,Zona Norte,73,38,3,0
+BUE-0318,Zona Leste,56,40,9,1
+BUE-0319,Zona Leste,54,112,8,1
+BUE-0320,Zona Norte,46,74,5,0
+BUE-0321,Zona Leste,11,102,4,0
+BUE-0322,Zona Leste,61,23,2,0
+BUE-0323,Zona Leste,79,59,8,1
+BUE-0324,Zona Sul,87,45,4,0
+BUE-0325,Zona Sul,82,18,4,0
+BUE-0326,Zona Sul,7,67,3,0
+BUE-0327,Zona Norte,94,89,3,1
+BUE-0328,Centro,20,101,0,0
+BUE-0329,Zona Leste,80,41,6,1
+BUE-0330,Zona Leste,86,31,8,0
+BUE-0331,Zona Norte,100,38,2,1
+BUE-0332,Zona Leste,79,108,1,1
+BUE-0333,Zona Sul,69,109,2,1
+BUE-0334,Centro,71,35,0,0
+BUE-0335,Zona Oeste,24,103,5,0
+BUE-0336,Zona Leste,81,100,10,1
+BUE-0337,Zona Sul,88,96,10,1
+BUE-0338,Zona Oeste,11,35,6,0
+BUE-0339,Centro,14,2,10,0
+BUE-0340,Zona Oeste,58,72,10,1
+BUE-0341,Zona Sul,25,7,1,0
+BUE-0342,Zona Oeste,25,96,7,1
+BUE-0343,Zona Norte,46,69,5,1
+BUE-0344,Zona Oeste,31,40,3,0
+BUE-0345,Zona Leste,9,102,4,0
+BUE-0346,Zona Leste,15,67,7,0
+BUE-0347,Zona Norte,70,12,2,0
+BUE-0348,Zona Sul,16,48,2,0
+BUE-0349,Zona Leste,22,59,10,0
+BUE-0350,Centro,25,1,3,0
+BUE-0351,Zona Leste,84,59,0,1
+BUE-0352,Zona Leste,85,4,8,1
+BUE-0353,Zona Sul,6,43,7,0
+BUE-0354,Zona Oeste,13,26,7,0
+BUE-0355,Zona Leste,78,31,9,0
+BUE-0356,Zona Norte,6,20,5,0
+BUE-0357,Zona Oeste,8,7,6,0
+BUE-0358,Centro,47,101,5,1
+BUE-0359,Zona Sul,71,71,8,1
+BUE-0360,Centro,58,49,2,0
+BUE-0361,Zona Oeste,86,66,2,0
+BUE-0362,Zona Oeste,92,117,2,1
+BUE-0363,Zona Oeste,81,43,9,0
+BUE-0364,Centro,94,57,2,1
+BUE-0365,Zona Oeste,93,2,8,0
+BUE-0366,Centro,38,85,3,0
+BUE-0367,Zona Oeste,98,69,6,1
+BUE-0368,Zona Norte,17,1,8,0
+BUE-0369,Zona Oeste,58,86,10,1
+BUE-0370,Centro,16,43,6,0
+BUE-0371,Zona Leste,13,1,8,0
+BUE-0372,Zona Oeste,30,101,2,0
+BUE-0373,Zona Leste,23,80,3,1
+BUE-0374,Zona Norte,98,34,7,1
+BUE-0375,Zona Sul,59,97,5,1
+BUE-0376,Zona Norte,44,86,4,0
+BUE-0377,Zona Oeste,97,29,3,0
+BUE-0378,Zona Leste,2,115,7,0
+BUE-0379,Zona Leste,36,7,0,0
+BUE-0380,Centro,42,21,8,0
+BUE-0381,Zona Leste,39,43,0,0
+BUE-0382,Centro,89,57,7,0
+BUE-0383,Zona Sul,54,35,3,0
+BUE-0384,Zona Oeste,86,68,8,0
+BUE-0385,Centro,38,76,10,1
+BUE-0386,Zona Sul,14,92,4,0
+BUE-0387,Zona Leste,3,30,2,0
+BUE-0388,Zona Leste,92,46,8,1
+BUE-0389,Zona Sul,85,54,10,1
+BUE-0390,Zona Leste,24,79,8,0
+BUE-0391,Zona Sul,12,105,3,0
+BUE-0392,Centro,81,61,10,1
+BUE-0393,Centro,32,29,3,0
+BUE-0394,Zona Sul,15,54,7,0
+BUE-0395,Centro,41,15,1,0
+BUE-0396,Centro,65,11,8,0
+BUE-0397,Centro,54,16,5,0
+BUE-0398,Zona Norte,98,15,8,0
+BUE-0399,Zona Oeste,41,11,7,0
+BUE-0400,Zona Leste,33,7,6,0
+BUE-0401,Zona Norte,29,83,0,0
+BUE-0402,Centro,12,2,2,0
+BUE-0403,Zona Sul,12,15,10,0
+BUE-0404,Centro,17,29,1,0
+BUE-0405,Zona Oeste,31,108,4,0
+BUE-0406,Centro,95,22,4,0
+BUE-0407,Zona Sul,98,91,4,1
+BUE-0408,Zona Oeste,38,114,3,0
+BUE-0409,Centro,45,103,4,1
+BUE-0410,Zona Oeste,28,117,2,0
+BUE-0411,Zona Leste,61,4,0,0
+BUE-0412,Zona Leste,92,83,4,1
+BUE-0413,Centro,61,103,8,1
+BUE-0414,Zona Oeste,56,119,8,1
+BUE-0415,Zona Sul,15,107,3,0
+BUE-0416,Centro,55,64,2,0
+BUE-0417,Zona Leste,9,29,0,0
+BUE-0418,Zona Leste,29,20,1,0
+BUE-0419,Centro,24,83,7,1
+BUE-0420,Zona Oeste,83,69,0,0
+BUE-0421,Zona Leste,4,21,7,0
+BUE-0422,Zona Oeste,64,81,6,0
+BUE-0423,Zona Leste,93,71,7,1
+BUE-0424,Zona Leste,48,102,5,1
+BUE-0425,Zona Norte,2,31,8,0
+BUE-0426,Zona Leste,44,32,2,0
+BUE-0427,Zona Sul,13,116,9,0
+BUE-0428,Centro,29,15,3,0
+BUE-0429,Centro,67,75,5,0
+BUE-0430,Zona Oeste,17,37,7,0
+BUE-0431,Zona Leste,61,115,4,1
+BUE-0432,Zona Sul,36,97,2,0
+BUE-0433,Zona Oeste,24,13,5,0
+BUE-0434,Zona Norte,47,35,3,0
+BUE-0435,Zona Oeste,64,96,8,1
+BUE-0436,Zona Oeste,52,22,2,0
+BUE-0437,Zona Leste,78,113,3,1
+BUE-0438,Zona Norte,72,108,6,1
+BUE-0439,Zona Oeste,14,65,6,0
+BUE-0440,Zona Sul,48,104,3,0
+BUE-0441,Zona Sul,87,84,5,1
+BUE-0442,Centro,67,1,2,0
+BUE-0443,Zona Norte,11,90,5,0
+BUE-0444,Zona Norte,58,72,1,0
+BUE-0445,Centro,36,64,7,1
+BUE-0446,Zona Oeste,60,74,1,0
+BUE-0447,Zona Norte,100,66,10,1
+BUE-0448,Zona Sul,42,51,6,0
+BUE-0449,Zona Sul,69,61,8,1
+BUE-0450,Zona Leste,38,22,0,0
+BUE-0451,Zona Norte,55,25,7,0
+BUE-0452,Zona Oeste,62,67,6,0
+BUE-0453,Centro,45,81,5,1
+BUE-0454,Centro,87,54,5,1
+BUE-0455,Zona Oeste,10,5,5,0
+BUE-0456,Zona Leste,61,34,8,1
+BUE-0457,Centro,76,21,1,0
+BUE-0458,Zona Norte,97,42,0,0
+BUE-0459,Zona Leste,24,14,5,0
+BUE-0460,Zona Norte,70,85,9,1
+BUE-0461,Zona Sul,51,59,10,1
+BUE-0462,Zona Leste,3,100,7,0
+BUE-0463,Centro,58,115,2,1
+BUE-0464,Zona Leste,71,105,9,1
+BUE-0465,Zona Leste,19,11,0,0
+BUE-0466,Zona Leste,92,110,8,1
+BUE-0467,Zona Leste,62,48,0,0
+BUE-0468,Zona Norte,53,41,2,0
+BUE-0469,Zona Sul,73,37,7,0
+BUE-0470,Zona Oeste,97,81,2,1
+BUE-0471,Zona Leste,56,44,3,0
+BUE-0472,Centro,89,34,7,1
+BUE-0473,Zona Leste,40,29,0,0
+BUE-0474,Centro,2,87,5,0
+BUE-0475,Zona Norte,5,105,0,0
+BUE-0476,Centro,4,29,0,0
+BUE-0477,Zona Oeste,4,77,7,0
+BUE-0478,Zona Sul,53,5,10,0
+BUE-0479,Centro,46,66,3,0
+BUE-0480,Centro,86,79,0,0
+BUE-0481,Zona Sul,48,6,9,0
+BUE-0482,Zona Oeste,8,51,6,1
+BUE-0483,Zona Leste,98,13,4,0
+BUE-0484,Centro,19,72,4,0
+BUE-0485,Zona Sul,60,14,0,0
+BUE-0486,Zona Norte,34,20,9,0
+BUE-0487,Zona Sul,49,34,10,1
+BUE-0488,Zona Norte,81,65,5,0
+BUE-0489,Zona Oeste,61,90,8,0
+BUE-0490,Zona Leste,16,1,8,0
+BUE-0491,Zona Sul,87,34,7,1
+BUE-0492,Centro,2,81,4,0
+BUE-0493,Zona Oeste,31,77,0,0
+BUE-0494,Zona Sul,98,19,8,0
+BUE-0495,Centro,12,81,0,0
+BUE-0496,Zona Sul,88,9,7,0
+BUE-0497,Zona Norte,72,24,4,0
+BUE-0498,Zona Sul,67,65,2,0
+BUE-0499,Zona Sul,13,24,10,0
+BUE-0500,Zona Sul,100,53,6,1
+BUE-0501,Zona Oeste,97,32,6,0
+BUE-0502,Zona Sul,10,35,8,0
+BUE-0503,Centro,55,94,6,1
+BUE-0504,Zona Norte,66,13,10,0
+BUE-0505,Zona Norte,91,64,2,1
+BUE-0506,Zona Sul,28,109,10,1
+BUE-0507,Zona Oeste,8,79,0,0
+BUE-0508,Zona Oeste,66,53,7,0
+BUE-0509,Centro,24,109,2,0
+BUE-0510,Zona Sul,97,51,7,1
+BUE-0511,Zona Norte,75,2,7,0
+BUE-0512,Zona Oeste,41,98,4,1
+BUE-0513,Zona Sul,8,40,0,0
+BUE-0514,Zona Oeste,78,5,9,1
+BUE-0515,Zona Oeste,39,24,6,0
+BUE-0516,Zona Norte,24,12,9,0
+BUE-0517,Zona Leste,4,116,4,1
+BUE-0518,Centro,10,97,7,0
+BUE-0519,Centro,58,7,8,0
+BUE-0520,Zona Norte,97,20,10,0
+BUE-0521,Zona Oeste,87,97,6,1
+BUE-0522,Zona Sul,78,67,6,0
+BUE-0523,Zona Oeste,37,24,0,0
+BUE-0524,Zona Norte,71,78,3,0
+BUE-0525,Centro,4,67,1,0
+BUE-0526,Zona Oeste,47,44,1,0
+BUE-0527,Centro,89,59,1,0
+BUE-0528,Zona Sul,17,11,3,0
+BUE-0529,Centro,69,31,0,0
+BUE-0530,Centro,36,95,3,0
+BUE-0531,Zona Leste,59,91,1,1
+BUE-0532,Zona Leste,47,12,4,0
+BUE-0533,Zona Leste,76,30,2,0
+BUE-0534,Centro,27,77,7,0
+BUE-0535,Zona Norte,68,19,3,0
+BUE-0536,Centro,76,17,0,0
+BUE-0537,Zona Norte,80,92,0,0
+BUE-0538,Zona Norte,39,59,9,0
+BUE-0539,Zona Leste,44,62,2,0
+BUE-0540,Zona Oeste,95,5,8,0
+BUE-0541,Zona Sul,61,31,6,0
+BUE-0542,Zona Leste,92,92,1,1
+BUE-0543,Zona Leste,57,42,8,0
+BUE-0544,Zona Oeste,66,1,9,0
+BUE-0545,Zona Sul,55,59,1,0
+BUE-0546,Centro,39,22,2,0
+BUE-0547,Centro,97,82,10,1
+BUE-0548,Zona Leste,39,30,9,0
+BUE-0549,Zona Sul,90,114,1,1
+BUE-0550,Zona Leste,76,4,2,0
+BUE-0551,Zona Norte,32,82,5,1
+BUE-0552,Zona Leste,5,33,8,0
+BUE-0553,Zona Leste,87,9,8,1
+BUE-0554,Centro,18,88,6,0
+BUE-0555,Centro,79,1,2,0
+BUE-0556,Centro,39,10,3,0
+BUE-0557,Zona Norte,91,49,5,0
+BUE-0558,Centro,96,30,10,1
+BUE-0559,Zona Sul,58,55,4,0
+BUE-0560,Zona Oeste,58,78,1,0
+BUE-0561,Zona Sul,47,72,5,0
+BUE-0562,Zona Sul,40,86,2,0
+BUE-0563,Centro,12,82,7,0
+BUE-0564,Zona Oeste,44,8,1,0
+BUE-0565,Zona Oeste,88,98,0,1
+BUE-0566,Zona Oeste,52,20,8,0
+BUE-0567,Zona Norte,41,72,2,0
+BUE-0568,Centro,99,27,10,1
+BUE-0569,Zona Oeste,62,61,0,0
+BUE-0570,Zona Norte,26,109,6,0
+BUE-0571,Zona Leste,37,114,9,1
+BUE-0572,Zona Leste,59,6,4,0
+BUE-0573,Zona Norte,6,79,4,0
+BUE-0574,Zona Norte,4,15,0,0
+BUE-0575,Centro,44,96,8,1
+BUE-0576,Centro,57,3,6,0
+BUE-0577,Zona Leste,30,3,7,0
+BUE-0578,Zona Oeste,22,102,8,0
+BUE-0579,Zona Leste,41,39,5,0
+BUE-0580,Zona Oeste,9,16,4,0
+BUE-0581,Zona Oeste,31,100,5,0
+BUE-0582,Centro,52,102,10,1
+BUE-0583,Zona Sul,29,51,1,0
+BUE-0584,Zona Sul,38,92,3,0
+BUE-0585,Zona Norte,30,51,2,0
+BUE-0586,Centro,81,35,6,0
+BUE-0587,Zona Oeste,99,37,8,0
+BUE-0588,Zona Sul,1,102,4,0
+BUE-0589,Zona Oeste,77,49,5,0
+BUE-0590,Zona Sul,76,62,9,1
+BUE-0591,Zona Sul,92,100,1,1
+BUE-0592,Zona Sul,11,115,2,1
+BUE-0593,Centro,38,62,2,0
+BUE-0594,Zona Leste,65,61,8,0
+BUE-0595,Zona Oeste,95,98,6,1
+BUE-0596,Centro,12,6,7,0
+BUE-0597,Centro,45,26,10,0
+BUE-0598,Centro,26,91,9,0
+BUE-0599,Centro,16,85,10,1
+BUE-0600,Centro,94,13,8,1
+BUE-0601,Zona Norte,97,70,5,1
+BUE-0602,Zona Oeste,59,100,3,1
+BUE-0603,Centro,63,85,0,1
+BUE-0604,Zona Oeste,87,4,7,1
+BUE-0605,Zona Norte,34,54,6,0
+BUE-0606,Zona Norte,69,1,1,0
+BUE-0607,Zona Oeste,82,61,7,1
+BUE-0608,Zona Sul,29,90,4,0
+BUE-0609,Zona Leste,70,20,6,0
+BUE-0610,Zona Sul,73,117,3,1
+BUE-0611,Zona Sul,95,101,4,1
+BUE-0612,Zona Sul,97,78,7,0
+BUE-0613,Centro,62,20,0,0
+BUE-0614,Zona Norte,27,9,0,0
+BUE-0615,Zona Sul,59,86,3,0
+BUE-0616,Zona Norte,78,57,2,1
+BUE-0617,Zona Oeste,93,119,9,1
+BUE-0618,Zona Leste,36,38,1,0
+BUE-0619,Zona Oeste,92,4,2,0
+BUE-0620,Zona Oeste,21,64,10,0
+BUE-0621,Centro,67,12,10,0
+BUE-0622,Zona Leste,19,84,10,0
+BUE-0623,Zona Oeste,95,89,0,1
+BUE-0624,Zona Oeste,99,113,0,1
+BUE-0625,Zona Leste,67,108,5,1
+BUE-0626,Zona Leste,90,84,4,1
+BUE-0627,Zona Oeste,63,52,7,0
+BUE-0628,Zona Leste,16,81,1,0
+BUE-0629,Zona Oeste,11,100,3,0
+BUE-0630,Zona Oeste,21,44,7,0
+BUE-0631,Centro,16,31,5,0
+BUE-0632,Zona Sul,9,35,0,0
+BUE-0633,Zona Oeste,64,80,3,1
+BUE-0634,Zona Norte,21,98,0,0
+BUE-0635,Zona Sul,89,112,1,0
+BUE-0636,Zona Sul,81,59,4,0
+BUE-0637,Zona Sul,49,10,7,0
+BUE-0638,Centro,13,62,7,0
+BUE-0639,Zona Oeste,63,20,10,0
+BUE-0640,Centro,46,51,2,0
+BUE-0641,Zona Oeste,28,54,10,0
+BUE-0642,Centro,75,116,3,1
+BUE-0643,Centro,35,25,9,0
+BUE-0644,Zona Norte,98,67,10,1
+BUE-0645,Centro,51,33,5,0
+BUE-0646,Zona Leste,75,51,10,1
+BUE-0647,Zona Norte,6,111,10,1
+BUE-0648,Centro,28,81,9,0
+BUE-0649,Zona Sul,10,103,2,0
+BUE-0650,Zona Leste,32,98,1,0
+BUE-0651,Zona Leste,5,104,5,0
+BUE-0652,Zona Leste,78,92,10,1
+BUE-0653,Zona Norte,31,51,4,0
+BUE-0654,Centro,50,28,9,0
+BUE-0655,Centro,74,37,4,0
+BUE-0656,Zona Sul,57,41,9,1
+BUE-0657,Zona Sul,86,20,4,0
+BUE-0658,Zona Leste,25,41,9,0
+BUE-0659,Zona Sul,97,12,4,0
+BUE-0660,Zona Norte,45,112,2,1
+BUE-0661,Centro,97,104,6,1
+BUE-0662,Zona Leste,28,63,5,0
+BUE-0663,Zona Sul,3,16,3,0
+BUE-0664,Zona Norte,80,119,1,1
+BUE-0665,Zona Norte,98,8,8,1
+BUE-0666,Zona Sul,12,40,0,0
+BUE-0667,Centro,38,0,10,0
+BUE-0668,Zona Sul,14,1,3,0
+BUE-0669,Zona Leste,28,59,0,0
+BUE-0670,Zona Sul,28,47,5,0
+BUE-0671,Zona Norte,74,28,3,0
+BUE-0672,Zona Sul,31,96,4,0
+BUE-0673,Centro,1,9,4,0
+BUE-0674,Zona Oeste,46,113,8,1
+BUE-0675,Zona Sul,77,57,0,0
+BUE-0676,Centro,83,59,1,0
+BUE-0677,Centro,21,103,5,0
+BUE-0678,Zona Norte,74,20,4,0
+BUE-0679,Centro,26,27,10,0
+BUE-0680,Centro,66,74,6,0
+BUE-0681,Centro,80,118,2,1
+BUE-0682,Centro,55,33,2,0
+BUE-0683,Zona Leste,91,7,9,0
+BUE-0684,Zona Leste,92,58,1,0
+BUE-0685,Zona Norte,20,85,2,0
+BUE-0686,Zona Sul,46,71,9,0
+BUE-0687,Centro,79,48,0,0
+BUE-0688,Zona Sul,100,78,4,1
+BUE-0689,Zona Sul,58,16,4,0
+BUE-0690,Zona Norte,83,59,10,1
+BUE-0691,Centro,5,86,6,0
+BUE-0692,Centro,18,87,3,0
+BUE-0693,Zona Oeste,56,44,2,0
+BUE-0694,Zona Sul,68,82,0,0
+BUE-0695,Zona Sul,2,68,7,0
+BUE-0696,Zona Leste,0,31,2,0
+BUE-0697,Zona Oeste,57,43,1,0
+BUE-0698,Zona Leste,37,64,10,0
+BUE-0699,Zona Leste,14,86,3,0
+BUE-0700,Zona Leste,33,100,2,0
+BUE-0701,Zona Norte,60,7,0,0
+BUE-0702,Zona Norte,34,76,2,0
+BUE-0703,Zona Leste,63,71,1,0
+BUE-0704,Zona Oeste,24,86,7,1
+BUE-0705,Zona Sul,23,42,5,0
+BUE-0706,Zona Oeste,11,0,8,0
+BUE-0707,Centro,17,108,7,0
+BUE-0708,Zona Norte,14,50,9,0
+BUE-0709,Zona Sul,79,23,2,0
+BUE-0710,Zona Sul,26,98,4,0
+BUE-0711,Centro,71,23,6,0
+BUE-0712,Centro,59,16,4,0
+BUE-0713,Zona Leste,45,4,7,0
+BUE-0714,Zona Norte,88,19,4,0
+BUE-0715,Zona Norte,16,20,0,0
+BUE-0716,Zona Oeste,92,103,4,1
+BUE-0717,Zona Leste,52,57,3,1
+BUE-0718,Zona Leste,7,30,5,0
+BUE-0719,Zona Leste,78,109,2,1
+BUE-0720,Zona Leste,26,99,10,1
+BUE-0721,Zona Norte,45,10,4,0
+BUE-0722,Zona Norte,49,51,1,0
+BUE-0723,Zona Leste,70,14,10,0
+BUE-0724,Zona Oeste,2,82,5,0
+BUE-0725,Zona Sul,92,6,5,0
+BUE-0726,Zona Sul,63,114,4,1
+BUE-0727,Zona Oeste,43,27,5,0
+BUE-0728,Zona Leste,52,50,10,0
+BUE-0729,Zona Norte,23,106,6,1
+BUE-0730,Zona Sul,59,57,4,0
+BUE-0731,Centro,2,4,0,0
+BUE-0732,Centro,19,4,7,0
+BUE-0733,Zona Oeste,45,93,3,1
+BUE-0734,Zona Leste,14,117,8,1
+BUE-0735,Zona Sul,24,95,9,1
+BUE-0736,Zona Leste,93,7,5,0
+BUE-0737,Zona Sul,77,63,0,0
+BUE-0738,Zona Oeste,70,9,2,0
+BUE-0739,Zona Oeste,16,37,2,0
+BUE-0740,Centro,83,110,9,1
+BUE-0741,Zona Leste,99,95,3,1
+BUE-0742,Centro,8,111,5,1
+BUE-0743,Zona Leste,37,91,6,1
+BUE-0744,Centro,47,80,9,1
+BUE-0745,Zona Norte,59,94,3,1
+BUE-0746,Zona Norte,62,7,5,0
+BUE-0747,Zona Norte,85,103,10,1
+BUE-0748,Zona Norte,1,24,0,0
+BUE-0749,Zona Sul,87,72,7,1
+BUE-0750,Zona Norte,71,65,6,1
+BUE-0751,Zona Oeste,10,78,10,1
+BUE-0752,Zona Oeste,63,49,10,0
+BUE-0753,Zona Sul,76,66,8,0
+BUE-0754,Zona Norte,80,48,2,0
+BUE-0755,Zona Norte,71,35,1,0
+BUE-0756,Zona Norte,20,67,0,0
+BUE-0757,Centro,17,77,2,1
+BUE-0758,Zona Leste,93,104,4,1
+BUE-0759,Centro,63,40,10,1
+BUE-0760,Zona Leste,81,88,1,1
+BUE-0761,Zona Norte,94,118,2,1
+BUE-0762,Zona Norte,37,61,3,0
+BUE-0763,Centro,31,113,6,0
+BUE-0764,Centro,10,9,2,0
+BUE-0765,Zona Leste,44,20,8,0
+BUE-0766,Zona Oeste,88,35,7,0
+BUE-0767,Zona Leste,32,11,3,0
+BUE-0768,Centro,40,90,0,0
+BUE-0769,Centro,7,103,0,0
+BUE-0770,Zona Sul,10,1,0,0
+BUE-0771,Centro,85,117,0,1
+BUE-0772,Zona Sul,50,12,7,0
+BUE-0773,Zona Oeste,87,52,2,1
+BUE-0774,Zona Leste,40,31,5,0
+BUE-0775,Zona Leste,16,94,2,1
+BUE-0776,Zona Sul,75,15,10,0
+BUE-0777,Zona Leste,45,31,4,0
+BUE-0778,Centro,31,31,6,0
+BUE-0779,Zona Norte,78,97,1,1
+BUE-0780,Zona Sul,79,10,5,0
+BUE-0781,Zona Leste,53,9,5,0
+BUE-0782,Zona Sul,85,14,10,1
+BUE-0783,Zona Sul,91,16,2,0
+BUE-0784,Zona Norte,19,39,5,0
+BUE-0785,Centro,32,17,9,0
+BUE-0786,Zona Sul,73,54,9,0
+BUE-0787,Zona Leste,39,72,4,1
+BUE-0788,Zona Oeste,31,24,1,0
+BUE-0789,Zona Sul,96,103,8,1
+BUE-0790,Zona Sul,1,58,7,0
+BUE-0791,Zona Norte,96,77,2,1
+BUE-0792,Centro,32,88,7,0
+BUE-0793,Zona Oeste,76,113,8,1
+BUE-0794,Zona Leste,29,21,2,0
+BUE-0795,Zona Oeste,32,115,2,0
+BUE-0796,Zona Leste,76,29,1,0
+BUE-0797,Centro,25,83,7,1
+BUE-0798,Zona Leste,21,84,9,0
+BUE-0799,Zona Norte,65,43,0,0
+BUE-0800,Zona Norte,37,31,7,0
+BUE-0801,Zona Norte,89,50,6,0
+BUE-0802,Zona Norte,45,45,6,0
+BUE-0803,Zona Oeste,14,112,2,0
+BUE-0804,Centro,97,119,0,1
+BUE-0805,Zona Leste,43,20,3,0
+BUE-0806,Zona Leste,48,98,8,1
+BUE-0807,Zona Norte,74,31,4,0
+BUE-0808,Zona Norte,60,93,0,0
+BUE-0809,Zona Sul,66,118,4,1
+BUE-0810,Centro,5,38,7,0
+BUE-0811,Zona Oeste,8,112,7,0
+BUE-0812,Zona Leste,5,11,4,0
+BUE-0813,Zona Sul,72,104,8,1
+BUE-0814,Zona Sul,94,46,0,0
+BUE-0815,Zona Leste,31,17,3,0
+BUE-0816,Zona Oeste,40,20,2,0
+BUE-0817,Zona Sul,75,12,1,0
+BUE-0818,Zona Sul,7,20,7,0
+BUE-0819,Centro,71,7,6,0
+BUE-0820,Zona Oeste,49,45,8,0
+BUE-0821,Zona Sul,91,103,1,1
+BUE-0822,Zona Oeste,61,109,3,1
+BUE-0823,Zona Leste,83,6,5,0
+BUE-0824,Zona Norte,61,22,10,0
+BUE-0825,Zona Sul,6,107,2,0
+BUE-0826,Centro,74,95,7,1
+BUE-0827,Zona Leste,83,74,2,0
+BUE-0828,Zona Oeste,79,85,1,1
+BUE-0829,Zona Leste,3,21,2,0
+BUE-0830,Zona Sul,5,106,10,1
+BUE-0831,Zona Oeste,57,88,5,1
+BUE-0832,Zona Norte,21,21,1,0
+BUE-0833,Zona Leste,25,91,7,0
+BUE-0834,Zona Sul,2,28,0,0
+BUE-0835,Centro,40,12,6,0
+BUE-0836,Zona Oeste,59,81,1,0
+BUE-0837,Zona Leste,13,1,9,0
+BUE-0838,Zona Leste,74,28,5,0
+BUE-0839,Zona Norte,81,84,1,1
+BUE-0840,Zona Norte,11,78,1,0
+BUE-0841,Centro,86,51,9,1
+BUE-0842,Centro,11,26,7,0
+BUE-0843,Zona Sul,12,49,1,0
+BUE-0844,Zona Sul,24,94,6,1
+BUE-0845,Centro,44,78,2,0
+BUE-0846,Centro,18,114,7,0
+BUE-0847,Zona Oeste,54,22,6,0
+BUE-0848,Zona Norte,99,87,7,1
+BUE-0849,Zona Sul,44,43,6,0
+BUE-0850,Zona Norte,7,76,10,0
+BUE-0851,Zona Norte,92,21,5,0
+BUE-0852,Centro,52,42,6,0
+BUE-0853,Zona Oeste,54,36,4,0
+BUE-0854,Zona Leste,31,60,6,0
+BUE-0855,Zona Oeste,50,96,0,0
+BUE-0856,Zona Oeste,43,55,0,0
+BUE-0857,Zona Norte,81,2,8,0
+BUE-0858,Zona Oeste,69,62,4,1
+BUE-0859,Zona Sul,17,117,4,0
+BUE-0860,Zona Norte,82,18,2,0
+BUE-0861,Zona Sul,21,22,4,0
+BUE-0862,Zona Leste,36,28,2,0
+BUE-0863,Zona Norte,95,29,8,1
+BUE-0864,Zona Leste,55,38,8,0
+BUE-0865,Zona Norte,58,107,5,1
+BUE-0866,Centro,2,110,0,0
+BUE-0867,Zona Oeste,27,24,6,0
+BUE-0868,Centro,73,100,6,1
+BUE-0869,Zona Leste,34,110,9,1
+BUE-0870,Zona Oeste,60,7,9,0
+BUE-0871,Zona Norte,92,105,3,1
+BUE-0872,Zona Oeste,53,57,7,0
+BUE-0873,Zona Sul,62,15,5,0
+BUE-0874,Zona Oeste,78,71,3,1
+BUE-0875,Zona Sul,96,0,3,0
+BUE-0876,Zona Oeste,6,107,1,0
+BUE-0877,Zona Sul,75,4,1,0
+BUE-0878,Zona Leste,48,2,3,0
+BUE-0879,Centro,93,64,4,1
+BUE-0880,Zona Norte,84,3,7,0
+BUE-0881,Zona Oeste,30,103,5,1
+BUE-0882,Centro,57,98,3,1
+BUE-0883,Zona Norte,60,95,10,1
+BUE-0884,Zona Norte,23,63,6,0
+BUE-0885,Zona Sul,19,105,7,0
+BUE-0886,Zona Leste,36,97,1,0
+BUE-0887,Zona Leste,3,106,6,1
+BUE-0888,Centro,91,88,1,1
+BUE-0889,Zona Leste,19,9,1,0
+BUE-0890,Zona Oeste,59,20,7,0
+BUE-0891,Zona Leste,23,45,1,0
+BUE-0892,Centro,49,102,10,1
+BUE-0893,Zona Leste,48,90,8,0
+BUE-0894,Zona Oeste,50,26,0,0
+BUE-0895,Zona Sul,95,65,8,1
+BUE-0896,Centro,35,40,0,0
+BUE-0897,Zona Sul,97,111,9,1
+BUE-0898,Zona Sul,99,12,9,1
+BUE-0899,Zona Sul,65,8,1,0
+BUE-0900,Zona Norte,78,115,5,1
+BUE-0901,Zona Norte,33,35,5,0
+BUE-0902,Zona Sul,35,85,0,0
+BUE-0903,Centro,5,105,6,0
+BUE-0904,Zona Oeste,38,89,7,1
+BUE-0905,Zona Oeste,41,57,1,0
+BUE-0906,Zona Leste,57,53,7,1
+BUE-0907,Centro,11,11,8,0
+BUE-0908,Zona Norte,2,80,5,0
+BUE-0909,Zona Sul,17,77,4,0
+BUE-0910,Zona Leste,39,13,8,0
+BUE-0911,Zona Oeste,20,33,10,0
+BUE-0912,Zona Norte,14,52,8,0
+BUE-0913,Zona Norte,96,19,0,0
+BUE-0914,Zona Sul,98,74,10,1
+BUE-0915,Zona Oeste,25,15,2,0
+BUE-0916,Centro,7,114,8,1
+BUE-0917,Zona Norte,99,94,10,1
+BUE-0918,Zona Sul,93,118,1,1
+BUE-0919,Centro,86,69,3,1
+BUE-0920,Zona Oeste,41,55,3,0
+BUE-0921,Zona Norte,43,82,1,0
+BUE-0922,Centro,13,100,2,0
+BUE-0923,Centro,77,57,2,0
+BUE-0924,Centro,1,3,0,0
+BUE-0925,Zona Norte,36,110,5,1
+BUE-0926,Zona Norte,68,3,7,0
+BUE-0927,Zona Leste,37,19,2,0
+BUE-0928,Zona Oeste,40,9,4,0
+BUE-0929,Zona Sul,61,23,0,0
+BUE-0930,Centro,59,117,9,1
+BUE-0931,Zona Leste,13,98,6,0
+BUE-0932,Zona Sul,88,25,9,1
+BUE-0933,Zona Leste,83,36,0,0
+BUE-0934,Zona Norte,1,101,10,0
+BUE-0935,Centro,69,84,8,1
+BUE-0936,Zona Sul,16,53,7,0
+BUE-0937,Zona Sul,88,103,6,1
+BUE-0938,Zona Sul,27,102,9,1
+BUE-0939,Zona Sul,65,20,6,0
+BUE-0940,Zona Sul,34,73,4,0
+BUE-0941,Zona Leste,100,37,4,0
+BUE-0942,Centro,4,45,10,0
+BUE-0943,Zona Norte,64,3,4,0
+BUE-0944,Zona Norte,39,59,0,0
+BUE-0945,Zona Norte,75,56,7,1
+BUE-0946,Zona Norte,55,44,10,0
+BUE-0947,Zona Leste,35,19,0,0
+BUE-0948,Zona Oeste,44,16,3,0
+BUE-0949,Centro,22,118,8,0
+BUE-0950,Zona Sul,46,70,8,1
+BUE-0951,Zona Oeste,30,3,4,0
+BUE-0952,Zona Norte,10,92,3,0
+BUE-0953,Zona Oeste,9,13,2,0
+BUE-0954,Centro,66,2,2,0
+BUE-0955,Zona Sul,13,87,4,0
+BUE-0956,Zona Sul,79,100,9,1
+BUE-0957,Centro,73,79,0,0
+BUE-0958,Centro,92,57,4,1
+BUE-0959,Zona Norte,9,54,5,0
+BUE-0960,Zona Sul,75,115,6,1
+BUE-0961,Zona Oeste,93,3,8,0
+BUE-0962,Zona Leste,0,119,2,0
+BUE-0963,Zona Leste,4,23,1,0
+BUE-0964,Centro,19,33,2,0
+BUE-0965,Zona Norte,7,29,8,0
+BUE-0966,Zona Leste,42,81,6,0
+BUE-0967,Zona Sul,75,18,8,0
+BUE-0968,Centro,0,30,1,0
+BUE-0969,Zona Oeste,56,59,4,0
+BUE-0970,Centro,63,59,3,0
+BUE-0971,Zona Oeste,83,18,1,0
+BUE-0972,Centro,27,48,8,0
+BUE-0973,Centro,36,62,8,0
+BUE-0974,Centro,46,109,5,1
+BUE-0975,Zona Oeste,100,82,10,1
+BUE-0976,Zona Oeste,75,21,5,0
+BUE-0977,Centro,36,23,7,0
+BUE-0978,Zona Leste,48,108,5,1
+BUE-0979,Zona Norte,43,75,0,0
+BUE-0980,Zona Norte,55,29,3,0
+BUE-0981,Zona Norte,27,57,6,0
+BUE-0982,Zona Oeste,78,101,1,1
+BUE-0983,Zona Oeste,5,116,8,0
+BUE-0984,Zona Leste,60,30,7,0
+BUE-0985,Zona Norte,19,99,7,0
+BUE-0986,Zona Norte,77,63,6,1
+BUE-0987,Centro,1,18,3,0
+BUE-0988,Zona Oeste,72,47,1,0
+BUE-0989,Zona Norte,36,44,2,0
+BUE-0990,Zona Leste,19,99,5,0
+BUE-0991,Zona Leste,25,93,4,0
+BUE-0992,Zona Norte,28,54,7,0
+BUE-0993,Zona Oeste,0,112,5,0
+BUE-0994,Zona Leste,34,54,5,0
+BUE-0995,Centro,69,96,0,1
+BUE-0996,Zona Leste,100,17,3,0
+BUE-0997,Zona Sul,58,62,4,0
+BUE-0998,Zona Sul,68,115,10,1
+BUE-0999,Zona Oeste,32,112,2,0
+BUE-1000,Zona Norte,50,91,8,1
